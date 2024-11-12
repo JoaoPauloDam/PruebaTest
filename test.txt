@@ -2,4 +2,6 @@ Listo ahora que he conseguido intentare subir las modificaciones de este
 archivo txt
 
 7:03 Am intentaré ahora descargar esta modificacion en mi repositorio local
-7:03 Am he conseguido hacer un pull ahora actualizare y  hace un push
+7:06 Am he conseguido hacer un pull ahora actualizare y  hace un push
+7:12 Certificando eso de las ramas (branches)
+
